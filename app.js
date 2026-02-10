@@ -10,7 +10,7 @@ var animals = {
     "frog": "croak",
     "lion": "roar",
     "guineapig": "cui",
-    "snake": "ssss"
+    "snake": "ssss",
     "pig": "oink"
 }
 
