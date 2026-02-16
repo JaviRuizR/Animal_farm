@@ -42,8 +42,8 @@ jobs:
  # Sustituye 
  # - user por el usuario de Docker Hub
  # - app por el nombre de la aplicación, por ejemplo animal-farm
-            jachivivi/Animal_farm
+            jachivivi/Animal_farm:latest
  # Sustituye
  # - user por tu usuario de GitHub
  # - app por el nombre de la aplicación, por ejemplo animal-farm
-            ghcr.io/JaviRuizR/Animal_farm
+            ghcr.io/JaviRuizR/Animal_farm:latest
