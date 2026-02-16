@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: |
             jachivivi/animal-farm:latest
-            ghcr.io/JaviRuizR/animal-farm:latest
+            ghcr.io/javiruizr/animal-farm:latest
