@@ -38,12 +38,6 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags:
- # Sustituye 
- # - user por el usuario de Docker Hub
- # - app por el nombre de la aplicación, por ejemplo animal-farm
+          tags: |
             jachivivi/Animal_farm:latest
- # Sustituye
- # - user por tu usuario de GitHub
- # - app por el nombre de la aplicación, por ejemplo animal-farm
             ghcr.io/JaviRuizR/Animal_farm:latest
